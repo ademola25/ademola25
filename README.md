@@ -19,9 +19,9 @@ My stacks:
 {
   - "languages": ["Python", "Javascript"],
   - "frameworks/libraries": {
-  -  "backend": ["Django", "Django Rest Framework"],
-  -  "data stacks": ["ETL", "data warehouse", "scikit-learn", "Airflow", "Pandas/Numpy" "Seaborn/Matplotlib"],
-  -  "others": ["HTML5", "CSS3"]
+    -  "backend": ["Django", "Django Rest Framework"],
+    -  "data stacks": ["ETL", "data warehouse", "scikit-learn", "Airflow", "Pandas/Numpy" "Seaborn/Matplotlib"],
+    -  "others": ["HTML5", "CSS3"]
   },
   - "database": ["Mysql", "PostgreSQL", "Nosql"],
   - "misc": ["Docker", "Redis" "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],

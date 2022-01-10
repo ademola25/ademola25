@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My stacks
+My stacks:
+
 {
   "languages": ["Python", "Javascript"],
   "frameworks/libraries": {

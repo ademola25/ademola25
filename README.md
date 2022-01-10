@@ -6,12 +6,11 @@ I have also worked on Machine learning Types Like Supervise and unSupervised Lea
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Python(Django), data engineering
-- 🌱 I’m currently learning ... data structure & Algorithm, FastApi
-- 👯 Getting better at ... python, django, data structure & algorithm, data engineering and data science
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on: Python(Django), data engineering
+- 🌱 I’m currently learning: data structure & Algorithm, FastApi
+- 👯 Getting better at: python, django, data structure & algorithm, data engineering and data science
 - 💬 Ask me about ...Python, Django, Data Engineering, Data Science
-- 📫 How to reach me: ... ademolaayo25@gmail.com
+- 📫 How to reach me: ademolaayo25@gmail.com
 
 
 

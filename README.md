@@ -2,8 +2,7 @@
 My name is Ademola Ayobami Tijani, and i am a backend python Developer for the last 4 years, I have worked in a different python platform like Web Development, Data Engineer, and Data Science. As a Web Developer, I have worked on Django and Django-Rest-Framework. As a Data Engineer, I have worked on Pyspark, ETL, Big Data, SQL, and Data Pipelines.As a Data Science path, I have worked with NumPy, pandas, Matplotlib.
 I have also worked on Machine learning Types Like Supervise and unSupervised Learning algorithms with scikit-learn library.
 
-<!--
-**ademola25/ademola25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,9 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Python, Django, Data Engineering, Data Science
 - 📫 How to reach me: ... ademolaayo25@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 
 My stacks:
 

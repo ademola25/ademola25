@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Python(Django), data engineering
 - 🌱 I’m currently learning: data structure & Algorithm, FastApi
-- 👯 Getting better at: python, django, data structure & algorithm, data engineering and data science
+- 👯 Getting better at: AWS, Kubernetes, data structure & algorithm, data engineering and data science
 - 💬 Ask me about ...Python, Django, Data Engineering, Data Science
 - 📫 How to reach me: ademolaayo25@gmail.com
 

@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 My stacks:
 
 {
-  - "languages": ["Python", "Javascript"],
-  - "frameworks/libraries": {
-  -  "backend": ["Django", "Django Rest Framework", "Flask", "FastApi", "NodeJS", "Laravel"],
+  - "LANGUAGES": ["Python", "Javascript"],
+  - "FRAMEWORKS/libraries": {
+  -  "BACKEND": ["Django", "Django Rest Framework", "Flask", "FastApi", "NodeJS", "Laravel"],
   -  CLOUD ARCHITECTURE : ["Aws", "Gcp", "Heroku", "Deployment", "Monitoring and Logging", "Data Migration"]
-  -  DevOps tool: ["Aws services" and "Aws Serverless","Terraform", "Kubernetes", "Ci/Cd", "Grafana", "Datadog", "S#", "Load Balancing", "S3","LinuxScripting", "Cloud Watch"]
-  -   "data stacks": ["ETL", "data warehouse", "scikit-learn", "Airflow", "Pandas/Numpy" "Seaborn/Matplotlib"],
+  -  DEVOPS tool: ["Aws services" and "Aws Serverless","Terraform", "Kubernetes", "Ci/Cd", "Grafana", "Datadog", "S#", "Load Balancing", "S3","LinuxScripting", "Cloud Watch"]
+  -   "DATA STACKS": ["ETL", "data warehouse", "scikit-learn", "Airflow", "Pandas/Numpy" "Seaborn/Matplotlib"],
   -   "others": ["HTML5", "CSS3"]
   },
-  - "database": ["Mysql", "PostgreSQL", "Nosql", "MongoDb", "DynamoDb"],
+  - "DATABASES": ["Mysql", "PostgreSQL", "Nosql", "MongoDb", "DynamoDb"],
   - "misc": ["Docker", "Redis" "Celery", "RabbitMQ", "Unit Testing",],
   - "tools": ["Visual Studio Code" "jupyter-notebook"]
 }

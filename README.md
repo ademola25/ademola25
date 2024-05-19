@@ -4,7 +4,7 @@ Ademola Ayobami Tijani is a Software Engineer || Cloud DevOps Engineer and a fan
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with: Python(Django, Flaks, FastApi), DevOps infrastructure tools (Too much to mention here)
+- 🔭 I’m currently working with: Python(Django, Flaks, FastApi), DevOps infrastructure tools: AWS, Kubernetes, Terraform, Ci/Cd Automation (Too much to mention here)
 - 🌱 I’m currently learning: "Always learning but AZURE to be precise" 
 - 👯 Getting better at: "so many things"
 - 💬 Ask me about ...Python, Django, Flask, FastApi, Javascript, Php, DevOps- Aws(And its services), GCP, Terraform, Kubernetes, CI/CD Jenkins, Travis, GitladCi/Cd, and Data Engineering,

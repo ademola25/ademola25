@@ -20,7 +20,7 @@ My stacks:
   -  "BACKEND": ["Django", "Django Rest Framework", "Flask", "FastApi", "NodeJS", "Laravel"],
   -  CLOUD ARCHITECTURE : ["Aws", "Gcp", "Heroku", "Deployment", "Monitoring and Logging", "Data Migration"]
   -  DEVOPS tool: ["Aws services" and "Aws Serverless","Terraform", "Kubernetes", "Ci/Cd", "Grafana", "Datadog", "S#", "Load Balancing", "S3","LinuxScripting", "Cloud Watch"]
-  -   "DATA STACKS": ["ETL", "data warehouse", "scikit-learn", "Airflow", "Pandas/Numpy" "Seaborn/Matplotlib"],
+  -   "DATA SCIENCE": ["ETL", "data warehouse", "scikit-learn", "Airflow", "Pandas/Numpy" "Seaborn/Matplotlib", "LLM", "Open-ai"],
   -   "others": ["HTML5", "CSS3"]
   },
   - "DATABASES": ["Mysql", "PostgreSQL", "Nosql", "MongoDb", "DynamoDb"],

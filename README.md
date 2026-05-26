@@ -1,4 +1,4 @@
-Senior DevSecOps / Platform Engineer • Cloud & SRE • Backend (Python) • AI Engineering
+### Senior DevSecOps / Platform Engineer • Cloud & SRE • Backend (Python) • AI Engineering
 
 
 
@@ -20,7 +20,7 @@ I build and run the infrastructure, pipelines, and services that keep payments-c
 
 
 
-  What I bring:
+  ## What I bring:
 
   • Backend: Python (Django, DRF, FastAPI, Flask), Celery, REST/GraphQL, PostgreSQL/MySQL/Redis
 
@@ -34,7 +34,7 @@ I build and run the infrastructure, pipelines, and services that keep payments-c
 
 
 
-  AWS Solutions Architect & Cloud Practitioner certified • HarvardX CS50 AI.
+  # AWS Solutions Architect & Cloud Practitioner certified • HarvardX CS50 AI.
 
 
 

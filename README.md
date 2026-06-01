@@ -1,4 +1,4 @@
-### Senior DevSecOps / Platform Engineer • Cloud & SRE • Backend Engineer(Python) • AI Engineering
+### Senior DevSecOps / Platform Engineer • Cloud & SRE • Backend Developments • AI Engineering
 
 
 
